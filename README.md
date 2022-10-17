@@ -14,7 +14,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="pic" height="150" style="border-radius:50px" src="https://www.nicepng.com/png/detail/174-1744111_gohan-ultime-png-imagens-de-dragon-ball-z.png">
+  <img align="right" alt="pic" height="150" style="border-radius:50px" src="https://cdn-0.imagensemoldes.com.br/wp-content/uploads/2020/05/Goku-Dragon-Ball-PNG-711x1024.png">
   <br>  <br>  <br>  
 </div>
 
