@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://openclipart.org/download/294026/albert-einstein.svg"  />
+<img align="right" height="150" src="https://openclipart.org/image/800px/350895"  />
 
 ###
 
