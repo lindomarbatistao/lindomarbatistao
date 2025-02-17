@@ -1,4 +1,4 @@
-<h2 align="left"> Hello, my name is Lindomar José Batistão. I am a professor in the Technical Course in Systems Development. I have a degree in Electrical Engineering with an emphasis on Telecommunications, a specialization in Automation Engineering, and I am currently pursuing a degree in Systems Analysis and Development.</h2>
+<h3 align="left"> Hello, my name is Lindomar José Batistão. I am a professor in the Technical Course in Systems Development. I have a degree in Electrical Engineering with an emphasis on Telecommunications, a specialization in Automation Engineering, and I am currently pursuing a degree in Systems Analysis and Development.</h3>
 
 ###
 
