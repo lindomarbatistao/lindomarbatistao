@@ -9,12 +9,12 @@
 
 ###
 
-<img align="right" height="250" src="https://lh3.googleusercontent.com/proxy/35-mtNPPtiJsgKnQLFfQVzM37S4rYfveGiDB-C5ruuqqRl218HDwRoWE6CjXlKttCCiyh6Dc7pYEwafSP5hE538UQ33QsGW86ZlHmZyMXlubPkuypoKD93f9r3XVyA-42aLag7aoMQefEx1W2tZe8uz2ZqYCyN0"  />
+
 
 ###
 
 <div align="left">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
