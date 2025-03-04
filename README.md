@@ -8,7 +8,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next&perline=20)
 
 ### 🔹 Backend  
-![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,firebase,python,django,mysql,sqlite&perline=20)  
+![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,firebase,python,django,mysql,sqlite,csharp&perline=20)  
 
 ### 🔹 Ferramentas e Outros  
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,c,cpp,raspberrypi,arduinon&perline=20) 
