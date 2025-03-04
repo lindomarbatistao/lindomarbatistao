@@ -5,7 +5,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%30and%30Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,nodejs,mongodb,firebase,git,github,vscode,postman,python,mysql,django,sqlite,c#,js&perline=14)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,nodejs,mongodb,firebase,git,github,vscode,postman,python,mysql,django,sqlite,c#,js&perline=14)](#)
+[![My Skills](https://skillicons.dev/icons?i=arduino&perline=14)](#)
 
 
 
