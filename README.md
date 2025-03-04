@@ -1,13 +1,6 @@
 <h3> Hello, my name is Lindomar José Batistão. I am a professor in the Technical Course in Systems Development. I have a degree in Electrical Engineering with an emphasis on Telecommunications, a specialization in Automation Engineering, and I am currently pursuing a degree in Systems Analysis and Development.</h3>
 
-###
-
-
-###
 <img align="right" height="250" src="https://lh3.googleusercontent.com/proxy/35-mtNPPtiJsgKnQLFfQVzM37S4rYfveGiDB-C5ruuqqRl218HDwRoWE6CjXlKttCCiyh6Dc7pYEwafSP5hE538UQ33QsGW86ZlHmZyMXlubPkuypoKD93f9r3XVyA-42aLag7aoMQefEx1W2tZe8uz2ZqYCyN0"  />
-
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -25,7 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.youtube.com/@lindomarbatistao" target="_blank">
@@ -45,7 +37,7 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
