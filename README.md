@@ -2,8 +2,18 @@
 
 <img align="right" height="250" src="https://lh3.googleusercontent.com/proxy/35-mtNPPtiJsgKnQLFfQVzM37S4rYfveGiDB-C5ruuqqRl218HDwRoWE6CjXlKttCCiyh6Dc7pYEwafSP5hE538UQ33QsGW86ZlHmZyMXlubPkuypoKD93f9r3XVyA-42aLag7aoMQefEx1W2tZe8uz2ZqYCyN0"  />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%30and%30Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,nodejs,mongodb,firebase,git,github,vscode,postman,python,mysql,django,sqlite,c#,js&perline=14)][![My Skills](https://skillicons.dev/icons?i=arduino&perline=14)](#)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+
+### 🔹 Frontend  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next&perline=7)]  
+
+### 🔹 Backend  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,firebase,python,django,mysql,sqlite&perline=7)]  
+
+### 🔹 Ferramentas e Outros  
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,c#,arduino,linux&perline=7)]  
+
+
 
 
 
