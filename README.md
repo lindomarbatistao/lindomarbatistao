@@ -12,7 +12,7 @@
 ### 🔹 Backend  
 ![My Skills](https://skillicons.dev/icons?i=java,python,django,nodejs,mongodb,firebase,mysql,sqlite,csharp&perline=20)  
 
-### 🔹 Ferramentas e Outros  
+### 🔹 Tools and Others 
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,c,cpp,raspberrypi,arduino,pycharm&perline=20) 
 
 ## GitHub Stats
