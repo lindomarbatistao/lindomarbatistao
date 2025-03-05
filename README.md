@@ -1,6 +1,7 @@
 <h3> Hello, my name is Lindomar José Batistão. I am a professor in the Technical Course in Systems Development. I have a degree in Electrical Engineering with an emphasis on Telecommunications, a specialization in Automation Engineering, and I am currently pursuing a degree in Systems Analysis and Development.</h3>
 
-<img src="https://via.placeholder.com/1200x400/000000/FFFFFF?text=Bem+Vindo!" width="100%">
+<img src="https://raw.githubusercontent.com/lindomarbatistao/imagem_fundo/main/img.png" width="100%">
+
 
 <img align="right" height="250" src="https://lh3.googleusercontent.com/proxy/35-mtNPPtiJsgKnQLFfQVzM37S4rYfveGiDB-C5ruuqqRl218HDwRoWE6CjXlKttCCiyh6Dc7pYEwafSP5hE538UQ33QsGW86ZlHmZyMXlubPkuypoKD93f9r3XVyA-42aLag7aoMQefEx1W2tZe8uz2ZqYCyN0"  />
 
