@@ -11,7 +11,7 @@
 ![My Skills](https://skillicons.dev/icons?i=java,python,django,nodejs,mongodb,firebase,mysql,sqlite,csharp&perline=20)  
 
 ### 🔹 Ferramentas e Outros  
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,insomnia,c,cpp,raspberrypi,arduino,pycharm&perline=20) 
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,c,cpp,raspberrypi,arduino,pycharm&perline=20) 
 
 
 
