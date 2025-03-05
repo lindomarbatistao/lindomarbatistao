@@ -13,7 +13,9 @@
 ### 🔹 Ferramentas e Outros  
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,c,cpp,raspberrypi,arduino,pycharm&perline=20) 
 
+## GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lindomarbatistao&show_icons=true&theme=radical)
 
 ## Top Languages
 
